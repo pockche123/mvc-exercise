@@ -31,18 +31,22 @@ This will start the server at http://localhost:3100.
    Endpoint: /cats
    Method: GET
    Description: Retrieve a list of all cats in the database.
+
 **2. Get an cat by ID**
    Endpoint: /cats/:id
    Method: GET
    Description: Retrieve details of a specific cat by providing its ID.
+
 **3. Add a new cat**
    Endpoint: /cats
    Method: POST
    Description: Add a new cat to the database. Provide the cat details in the request body.
+
 **4. Update an existing cat**
    Endpoint: /cats/:id
    Method: PUT
    Description: Update the details of an existing cat using its ID. Provide the updated details in the request body.
+
 **5. Delete an cat**
    Endpoint: /cats/:id
    Method: DELETE
