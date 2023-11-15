@@ -20,8 +20,8 @@ Before you start, make sure you have Node.js and npm (Node Package Manager) inst
 To start the server, run the following command:
 
 ```bash
-npm install
-npm run dev
+ npm install
+ npm run dev
 ```
 This will start the server at http://localhost:3100.
 
