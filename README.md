@@ -43,8 +43,8 @@ This will start the server at http://localhost:3100.
    Description: Add a new cat to the database. Provide the cat details in the request body.
 
 **4. Update an existing cat**
-   Endpoint: /cats/:id
-   Method: PUT
+   Endpoint: /cats/:id  
+   Method: PATCH  
    Description: Update the details of an existing cat using its ID. Provide the updated details in the request body.
 
 **5. Delete an cat**
