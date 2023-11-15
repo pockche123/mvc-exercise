@@ -10,10 +10,10 @@ Before you start, make sure you have Node.js and npm (Node Package Manager) inst
 
 1. **Clone the repository:**
 
-   ```bash
+ ```bash
    git clone https://github.com/pockche123/mvc-exercise.git
 
-   ```
+ ```
 
 2. **Running the Server:**
 
